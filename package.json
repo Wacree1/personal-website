@@ -2,14 +2,15 @@
   "name": "personal-website",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://Wacree1.github.io/will.acree.github.io",
+  "homepage": "https://Wacree1.github.io/personal-website",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
+
   },
   "keywords": [],
   "author": "",
