@@ -1,7 +1,8 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin');
-const isDev = process.env.NODE_ENV !== "production";
+const isDev = process.env.WEBPACK_SERVE === "true";
+
 
 module.exports = {
   mode: 'production',
