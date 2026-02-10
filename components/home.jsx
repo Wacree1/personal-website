@@ -17,6 +17,7 @@ function Home() {
                     <br />
                     <h3>Why Hire Me?</h3>
                     <p>As a former computer science major, not only do I offer strong electrical engineering skills, but also a solid foundation in computer science and software development, giving me a unique and versatile skill set. I didn't leave Computer Science; I brought it with me. </p>
+                    
                 </div>
             </div>
             <footer className="site-footer">
