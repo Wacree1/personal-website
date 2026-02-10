@@ -1,12 +1,12 @@
 body {
-  background: linear-gradient(135deg, #f5f7fa 0%, #e0e7f1 100%) !important;
+  background: linear-gradient(135deg, #dbe4ed 0%, #ffffff 100%) !important;
 }
 .projects-container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
   margin-bottom: 60px;
-  background: linear-gradient(135deg, #f5f7fa 0%, #e0e7f1 100%);
+  background: linear-gradient(135deg, #dbe4ed 0%, #ffffff 100%);
 }
 
 .projects-header {

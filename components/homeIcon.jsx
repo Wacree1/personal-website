@@ -3,8 +3,8 @@ import icon_img from '../assets/icon_img.png'
 
 function Icon() {
   const iconStyle = {
-    width: '250px',
-    height: '300px',
+    width: '440px',
+    height: '600px',
     borderRadius: '50%',
     borderColor: 'gray',
     borderWidth: '1px',

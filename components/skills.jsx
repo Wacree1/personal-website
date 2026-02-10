@@ -55,13 +55,25 @@ function Skills({ setCurrentPage }) {
 
 {/*Skills developed through past work experience*/}
             <div className="skills-section">
-                <h2>Past Work Experience</h2>
-                <p>Through my former internship at <a href="https://polygonsol.com/" target="_blank" rel="noopener noreferrer">Polygon Solutions</a>, I developed both soft skills and technical skills relevant to the field of electrical engineering. Some of these skills include:</p>
+                <h2>Work Experience</h2>
+                <p>During my internship at <a href="https://polygonsol.com/" target="_blank" rel="noopener noreferrer">Polygon Solutions</a>, I developed both soft skills and technical skills relevant to the field of electrical engineering. Some of these skills include:</p>
                 <div className="skills-grid">
                     <div className="skill-card">
                         <div>
-                            <h5>Teamwork</h5>
-                                <p>It is my belief that in any engineering setting, teamwork is essential for success. At Polygon Solutions, I had the opportunity to collaborate with people of many different backgrounds and skillsets on a wide range of projects, often connecting the dots between the technical side and business side of projects.</p>
+                            <h5>Large Language Models</h5>
+                                <p>I had a unique opportunity to build a large language model called Pulse BI. This LLM was designed to take a user input and based on that input, generate a chart/dashboard that is tailored to the user's specific needs. During this project, I learned how to train and configure an LLM as well as embed 3rd party software into web applications.</p>
+                        </div>
+                    </div>
+                    <div className="skill-card">
+                        <div>
+                            <h5>Back End Development</h5>
+                                <p>During my internship, I gained experience building back ends for various software products. I learned how to implement server-side logic, manage databases, and build APIs that support front-end applications.</p>
+                        </div>
+                    </div>
+                    <div className="skill-card">
+                        <div>
+                            <h5>Spatial Data Analysis</h5>
+                                <p>During my internship, I performed data analysis and transformations on spatial datasets with over 50,000 records, gaining experience with softwares such as <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/" target="_blank" rel="noopener noreferrer">ARCGIS</a> and <a href="https://www.safe.com/" target="_blank" rel="noopener noreferrer">FME.</a></p>
                         </div>
                     </div>
                     <div className="skill-card">
@@ -78,20 +90,8 @@ function Skills({ setCurrentPage }) {
                     </div>
                     <div className="skill-card">
                         <div>
-                            <h5>Back End Development</h5>
-                                <p>During my internship, I gained experience building back ends for various software products. I learned how to implement server-side logic, manage databases, and build APIs that support front-end applications.</p>
-                        </div>
-                    </div>
-                    <div className="skill-card">
-                        <div>
-                            <h5>Large Language Models</h5>
-                                <p>I had a unique opportunity to build a large language model called Pulse BI. This LLM was designed to take a user input and based on that input, generate a chart/dashboard that is tailored to the user's specific needs. During this project, I learned how to train and configure an LLM as well as embed 3rd party software into web applications.</p>
-                        </div>
-                    </div>
-                    <div className="skill-card">
-                        <div>
-                            <h5>Spatial Data Analysis</h5>
-                                <p>During my internship, I performed data analysis and transformations on spatial datasets with over 50,000 records, gaining experience with softwares such as <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/" target="_blank" rel="noopener noreferrer">ARCGIS</a> and <a href="https://www.safe.com/" target="_blank" rel="noopener noreferrer">FME.</a></p>
+                            <h5>Teamwork</h5>
+                                <p>It is my belief that in any engineering setting, teamwork is essential for success. At Polygon Solutions, I had the opportunity to collaborate with people of many different backgrounds and skillsets on a wide range of projects, often connecting the dots between the technical side and business side of projects.</p>
                         </div>
                     </div>
                 </div>
