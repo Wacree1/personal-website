@@ -10,11 +10,11 @@
 .home-content {
   display: flex;
   align-items: center;
-  gap: 90px;
+  gap: 60px;
   max-width: 1000px;
   width: 100%;
-  margin-top: 100px;
-  margin-bottom: 60px;
+  margin-top: 70px;
+  margin-bottom: 20px;
 }
 
 .home-icon-wrapper {
@@ -31,29 +31,29 @@
 }
 
 .home-text h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 700;
   color: #333;
-  margin: 0 0 30px 0;
+  margin: 0 0 20px 0;
   letter-spacing: -0.5px;
 }
 
 .home-text h3 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: #0056b3;
-  margin: 0 0 20px 0;
+  margin: 0 0 12px 0;
   border-bottom: 3px solid #007bff;
   display: inline-block;
-  padding-bottom: 8px;
+  padding-bottom: 6px;
 }
 
 .home-text p {
-  font-size: 1rem;
+  font-size: 0.95rem;
   color: #555;
-  line-height: 1.8;
+  line-height: 1.6;
   max-width: 650px;
-  margin: 20px 0 0 0;
+  margin: 12px 0 0 0;
 }
 
 .site-footer {
