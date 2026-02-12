@@ -23,7 +23,7 @@ function Interests({ setCurrentPage }) {
                 </li>
                 <li className="interest-item">
                     <h5>UC Young Life College</h5>
-                    <p>The most important part of my life is my faith. Not only has being a young life leader taught to me speak to and understand groups of diverse people, but it as also has given me the opportunity to show the love of Jesus to my peers and make a positive impact in the lives of my fellow college students.</p>
+                    <p>The most important part of my life is my faith. Not only has being a young life leader taught to me confidently speak to and understand groups of diverse people, but it as also has given me the opportunity to show the love of Jesus to my peers and make a positive impact in the lives of my fellow college students.</p>
                     <img style={{width: '400px', height: 'auto'}} src={young_life} alt="Young Life"></img>
                 </li>
                 {/* Add more interest/involvement list items here if needed, keeping the same structure */}
