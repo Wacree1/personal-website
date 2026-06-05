@@ -29,9 +29,9 @@ function Projects() {
                         <p>The Lego Storm Robot Project was a project for my introductory engineering project. I led a team of 4 to build a robot that tracked a black line, picked up boxes, determined the weight of the box, and dropped the boxes off at designated drop-off zones. This project taught me a lot about project constraints, as we were only given a specific set of materials (legos, sensors, etc), and how to work with sensors to achieve project goals.</p>
                     </li>
                     <li className="project-item">
-                        <h5>Personal Website (January 2026 to February 2026)</h5>
+                        <h5>Personal Website (January 2026 to June 2026)</h5>
                         <ImageCarousel images={[projectThreePhoto, projectOnePhoto, projectTwoPhoto]} altText="Personal website screenshot" />
-                        <p>This is a currently ongoing project to build this very website! I've always had an interest in front end development and in my prior job experience, I had the opportunity to become proficient in web development. I used react js to build this website to create an organized component-based architecture that is easy to maintain.</p>
+                        <p>This is a currently ongoing project to build this very website! I've always had an interest in front end development and in my prior job experience, I had the opportunity to become proficient in web development. I used React.js to build this website to create an organized component-based architecture that is easy to maintain. I built the website in February and update it regularly because it gives me a space to not only showcase my progress through my college experience, but also who I am and what my values are.</p>
                     </li>
                     <li className="project-item">
                         <h5>Solar Panel Efficiency Project (Upcoming)</h5>
