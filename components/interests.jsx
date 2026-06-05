@@ -18,12 +18,12 @@ function Interests({ setCurrentPage }) {
                 </li>
                 <li className="interest-item">
                     <h5>UC Run Club</h5>
-                    <p>I have been a distance runner for several years and joined the UC Club Running Team when I started college at UC. Training and racing with the team has taught me the value of discpline, consistency, and pushing through challenges. I am proud to be part of such a positive campus culture.</p>
+                    <p>I have been a distance runner for several years and joined the UC Club Running Team when I started college at UC. Training and racing with the team has taught me the value of discpline, consistency, and pushing through challenges. I enjoy the team culture and community so much that I recently ran for and was elected as the events/fundraising coordinator. I am excited to work with my teammates to contribute to the growth and success of the club.</p>
                     <img style={{width: '300px', height: 'auto'}} src={running} alt="Running"></img>
                 </li>
                 <li className="interest-item">
                     <h5>UC Young Life College</h5>
-                    <p>The most important part of my life is my faith. Not only has being a young life leader taught to me confidently speak to and understand groups of diverse people, but it as also has given me the opportunity to show the love of Jesus to my peers and make a positive impact in the lives of my fellow college students.</p>
+                    <p>The most important part of my life is my faith. Leading Young Life at UC has allowed me to step into a meaningful role mentoring my peers and helping them grow in their faith. This incredible experience has given me the opportunity to listen to my peers and provide support as they develop and grow in their walks with Jesus.</p>
                     <img style={{width: '400px', height: 'auto'}} src={young_life} alt="Young Life"></img>
                 </li>
                 {/* Add more interest/involvement list items here if needed, keeping the same structure */}
