@@ -24,7 +24,7 @@ function Contact() {
                     <h5>Phone</h5>
                     <p className="contact-link">(614) 949-5468</p>
                 </div>
-                <p className="contact-sub">I am available for 2nd co-op Summer of 2026 and 3rd co-op Spring of 2027.</p>
+                <p className="contact-sub">I am available for 3rd co-op Spring of 2027 and 4th co-op Fall of 2027.</p>
             </div>
 
             <footer className="site-footer">
