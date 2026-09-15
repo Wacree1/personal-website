@@ -1,5 +1,5 @@
 import React from 'react';
-import icon_img from '../assets/icon_img.png'
+import icon_img from '../assets/IMG_6628.png'
 
 function Icon() {
   const iconStyle = {
@@ -7,7 +7,7 @@ function Icon() {
     height: '60px',
     borderRadius: '50%',
     backgroundImage: `url(${icon_img})`,
-    backgroundSize: 'cover',
+    backgroundSize: '140%',
     backgroundPosition: 'center 40%',
     backgroundRepeat: 'no-repeat',
     display: 'flex',
