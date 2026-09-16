@@ -1,0 +1,9 @@
+.site-navbar {
+  --site-icon-size: 60px;
+}
+
+@media (max-width: 768px) {
+  .site-navbar {
+    --site-icon-size: 45px;
+  }
+}

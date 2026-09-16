@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import Icon from './icon.jsx';
+import './nav_bar.css';
 
 
 function NavBar({ setCurrentPage }) {
