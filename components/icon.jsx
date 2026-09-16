@@ -3,8 +3,8 @@ import icon_img from '../assets/IMG_6628.png'
 
 function Icon() {
   const iconStyle = {
-    width: '60px',
-    height: '60px',
+    width: '45px',
+    height: '45px',
     borderRadius: '50%',
     backgroundImage: `url(${icon_img})`,
     backgroundSize: '140%',

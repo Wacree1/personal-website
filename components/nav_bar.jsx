@@ -7,7 +7,7 @@ function NavBar({ setCurrentPage }) {
     const [hoveredItem, setHoveredItem] = useState(null);
   return (
     <div>
-<nav className="navbar navbar-expand-lg bg-body-tertiary" style={{position: 'fixed', top: '0', left: '0', right: '0', zIndex: '1000', width: '100%'}}>
+<nav className="navbar navbar-expand-lg bg-body-tertiary site-navbar" style={{position: 'fixed', top: '0', left: '0', right: '0', zIndex: '1000', width: '100%'}}>
   <div className="container-fluid">
     <a className="navbar-brand" href="#" onClick={() => setCurrentPage('home')} style={{ cursor: 'pointer' }}>
       <Icon />
