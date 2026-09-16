@@ -6,4 +6,8 @@
   .site-navbar {
     --site-icon-size: 45px;
   }
+
+  .site-footer {
+    display: none !important;
+  }
 }
