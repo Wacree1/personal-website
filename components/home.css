@@ -105,6 +105,10 @@
     text-align: center;
   }
 
+  .home-icon-wrapper {
+    display: none;
+  }
+
   .home-text h1 {
     font-size: 2rem;
   }
