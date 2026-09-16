@@ -29,7 +29,7 @@ function WorkExperience({ setCurrentPage }) {
                     <div className="work-experience-card">
                         <div>
                             <h5>Spatial Data Analysis</h5>
-                                <p>During my internship, I performed data analysis and transformations on spatial datasets with over 50,000 records, gaining experience with softwares such as <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/" target="_blank" rel="noopener noreferrer">ARCGIS</a> and <a href="https://www.safe.com/" target="_blank" rel="noopener noreferrer">FME,</a> helping the company to keep their data accurate and up-to-date.</p>
+                                <p>During my internship, I performed data analysis and transformations on spatial datasets with over 50,000 records, gaining experience with softwares such as <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/" target="_blank" rel="noopener noreferrer">ARCGIS</a> and <a href="https://www.safe.com/" target="_blank" rel="noopener noreferrer">FME,</a> helping the company keep client data accurate and up-to-date.</p>
                         </div>
                     </div>
                     <div className="work-experience-card">
@@ -46,7 +46,7 @@ function WorkExperience({ setCurrentPage }) {
                     </div>
                     <div className="work-experience-card">
                         <div>
-                            <h5>Teamwork</h5>
+                            <h5>Teamwork/Communication</h5>
                                 <p>During my internship, I had the opportunity to be part of a team with people of many different backgrounds and skillsets. I participated in regular meetings and discussions, ensuring effective communication with team members.</p>
                         </div>
                     </div>
